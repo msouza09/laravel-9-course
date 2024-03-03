@@ -1,0 +1,43 @@
+body {
+  background-color: #292738 !important;
+}
+
+.form-email {
+  width: 400px; 
+  height: 100px;
+  color: #ffffff;
+}
+
+.form-password {
+  width: 400px;
+  height: 80px;
+  color: #ffffff;
+}
+
+.form-check {
+  color: #ffffff;
+}
+
+.btn.btn-primary.mb-2 {
+  background-color: #5e4ce6;
+  color: #ffffff;
+  border-color: #5e4ce6;
+}
+
+.btn.btn-primary.mb-2:hover{
+  background-color: #1e184d;
+  color: #ffffff;
+}
+
+.btn.btn-primary.mb-2:focus{
+  box-shadow: none;
+  outline: none;
+}
+
+.form-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
