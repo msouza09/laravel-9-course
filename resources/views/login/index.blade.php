@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<div class="form-center">
+<div class="form-center" col-sm-12 col-md-6 col-lg-4>
   <form>
     <div class="form-email">
       <label for="EmailInput">Endereço de Email</label>
